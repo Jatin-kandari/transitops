@@ -37,7 +37,7 @@ Many logistics companies rely on spreadsheets and manual logbooks for transport 
 
 ```bash
 git clone https://github.com/Jatin-kandari/odoo-hackathon-2026
-cd transitops
+cd odoo-hackathon-2026
 
 ### 2.Run backend server
 cd server 
@@ -52,7 +52,7 @@ python3 -m http.server 8080
     Dispatcher: dispatcher@transitops.com / user123
 
 ## project structure
-transitops/
+odoo-hackathon-2026/
 ├── client/                 # Frontend
 │   ├── css/               # Stylesheets
 │   ├── js/                # JavaScript files
