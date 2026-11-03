@@ -36,7 +36,7 @@ Many logistics companies rely on spreadsheets and manual logbooks for transport 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Jatin-kandari/transitops.git
+git clone https://github.com/Jatin-kandari/odoo-hackathon-2026
 cd transitops
 
 ### 2.Run backend server
@@ -77,8 +77,4 @@ transitops/
     Creating maintenance automatically changes vehicle status to In Shop
     Closing maintenance restores vehicle to Available
 
-##Team
 
-    Team Leader - Backend, Maintenance, Fuel & Expenses, Reports, Authentication
-    Member 2 - Vehicles, Drivers, Trip Dispatcher
-    Member 3 - Additional features and testing
